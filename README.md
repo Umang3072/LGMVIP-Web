@@ -1,6 +1,6 @@
 # LGMVIP-Web
 
-<p>In this internship , I have completed two tasks :</p>
+<p>In this web development internship , I have completed two tasks :</p>
 
 <h1>1) To-do List</h1>
 <img width="999" alt="to-do list" src="https://user-images.githubusercontent.com/106135562/189525739-fe904828-6ac4-44fb-ac40-b74f0286859b.png">
